@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <img 
+  <img src="https://giphy.com/embed/df0cUZrXQ8jt3HpoTK" width="100"/>
 <!--        src="https://media.giphy.com/media/df0cUZrXQ8jt3HpoTK/giphy.gif"  -->
-       src="https://giphy.com/embed/df0cUZrXQ8jt3HpoTK"
-       width="100"/>
+    
 </div>
 
 ### Hi there 👋
