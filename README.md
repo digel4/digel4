@@ -1,8 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/df0cUZrXQ8jt3HpoTK/giphy.gif" width="100"/>
+  <img 
+<!--        src="https://media.giphy.com/media/df0cUZrXQ8jt3HpoTK/giphy.gif"  -->
+       src="https://giphy.com/embed/df0cUZrXQ8jt3HpoTK"
+       width="100"/>
 </div>
 
 ### Hi there 👋
+
+
+<iframe src="https://giphy.com/embed/df0cUZrXQ8jt3HpoTK" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mgm-studios-hackers-mgm-studios-df0cUZrXQ8jt3HpoTK">via GIPHY</a></p>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/oliver-fox-uk/" target="_blank">
