@@ -10,7 +10,7 @@
 <br />
 
 <br />
-<br />
+
 <p>
   🌱 I’m currently learning C# & .Net
 </p>
@@ -18,6 +18,9 @@
   🔭 I’m currently working on a bug tracker built in C# & .Net
 </p>
 
+<br />
+
+<br />
 
 <h4>Socials</h4>
   <a href="https://www.linkedin.com/in/oliver-fox-uk/" target="_blank">
