@@ -1,14 +1,12 @@
 
 
+<a href="http://oliverfox.uk/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Oliverfox.uk-blueviolet" alt="Portfolio website badge"/>
+</a>
 ### Hi there 👋
 
 <br />
-<div id="badges">
 
-  <a href="http://oliverfox.uk/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Oliverfox.uk-blueviolet" alt="Portfolio website badge"/>
-  </a>
-</div>
 <br />
 <br />
 <p>
@@ -18,6 +16,8 @@
   🔭 I’m currently working on a bug tracker built in C# & .Net
 </p>
 
+
+<h4>Socials</h4>
   <a href="https://www.linkedin.com/in/oliver-fox-uk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
